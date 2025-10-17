@@ -1,0 +1,6 @@
+qbittorrent - 
+Programs/qbittorrent.AppImage
+
+webstorm - 
+Programs/WebStorm/bin/webstorm.sh
+
